@@ -266,12 +266,6 @@ docker-compose exec web django-admin compilemessages
 
 本專案採用 [MIT 授權](LICENSE)。
 
-## 聯繫方式
-
-有問題或建議，請：
-- 在 [GitHub Issues](https://github.com/BpsEason/FullStackDjangoCRM/issues) 提出。
-- 聯繫：[your-email@example.com](mailto:your-email@example.com)。
-
 ## 鳴謝
 
 - 感謝 [Django](https://www.djangoproject.com/)、[Bootstrap 5](https://getbootstrap.com/) 和 [Docker](https://www.docker.com/) 提供強大工具。
